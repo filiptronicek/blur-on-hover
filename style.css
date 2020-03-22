@@ -1,16 +1,16 @@
 .mainImg {
-    position: relative;
-     top: 0;
-     left: 0;
-     transition-duration: 500ms;
-     width: 50vw;
-   }
-   .imgSubject {
-     position: absolute;
-     width: 50%;
-     left: calc(25vw);
-     transition-duration: 500ms;
-   }
-   .mainImg:hover {
-     transition-duration: 500ms;
-   }
+  position: relative;
+  top: 0;
+  left: 0;
+  transition-duration: 500ms;
+  width: 50vw;
+}
+.imgSubject {
+  position: absolute;
+  width: 50%;
+  left: calc(25vw);
+  transition-duration: 500ms;
+}
+.mainImg:hover {
+  transition-duration: 500ms;
+}
